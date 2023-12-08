@@ -15,7 +15,7 @@ public class TestDemo2 {
 		
 		MutableCapabilities caps=new MutableCapabilities();
 		WebDriver driver=new RemoteWebDriver(new URL("https://hub.browserstack.com/wd/hub"),caps);	
-		driver.get("https://rahulshettyacademy.com/");
+		driver.get("https://rahulshettyacademy.com/////");
 		System.out.println(driver.getTitle());
 		//Assert.assertTrue(driver.getTitle().matches("Selenium, API Testing, Software Testing & More QA Tutorials | Rahul Shetty Academy"));
 	}
