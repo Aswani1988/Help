@@ -1,0 +1,86 @@
+06:38:39.384 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+06:38:39.395 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+06:38:43.238 [testing@0] ERROR c.b.DriverServiceTransformer - Could not intercept config capabilities- javassist.CannotCompileException: [source error] no such field: executor
+06:38:43.293 [testing@0] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] no such field: sessionId
+06:38:43.396 [testing@2] ERROR c.b.DriverServiceTransformer - [source error] no such class: command
+06:38:44.151 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rzm8vlbgr5jbmztl5moy9ivqhw7g4oitnb88uxfv to view build report, insights, and many more debugging information all at one place!
+
+06:38:44.301 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+06:38:44.301 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+06:44:03.215 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+06:44:03.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+06:44:06.839 [testing@2] ERROR c.b.DriverServiceTransformer - Could not intercept config capabilities- javassist.CannotCompileException: [source error] no such field: executor
+06:44:06.870 [testing@2] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] no such field: sessionId
+06:44:06.930 [testing@2] ERROR c.b.DriverServiceTransformer - [source error] no such class: command
+06:44:07.564 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/oau4h5glql8lalsoe3ptxwyabux6mkacaifjjpgm to view build report, insights, and many more debugging information all at one place!
+
+06:44:07.694 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+06:44:07.695 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+06:45:15.565 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+06:45:15.574 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+06:45:51.264 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nva9yaykk3irzquuqank9evqedmdxlbp05lfrqqg to view build report, insights, and many more debugging information all at one place!
+
+06:45:51.496 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+06:45:51.496 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+06:47:12.377 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+06:47:12.387 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+06:47:31.335 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nezj5cvicfsffkt5kl1tymzz5imzevwp6nr1af3j to view build report, insights, and many more debugging information all at one place!
+
+06:47:31.484 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+06:47:31.484 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+06:52:35.463 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+06:52:35.473 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+06:52:59.213 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/yihobz19kcgcjcu9jbzqeyqroqlpewocewqzsa3i to view build report, insights, and many more debugging information all at one place!
+
+06:52:59.333 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+06:52:59.333 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+06:59:00.037 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+06:59:00.047 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+06:59:03.448 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+06:59:03.449 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+06:59:28.851 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+06:59:28.860 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+06:59:33.000 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+06:59:33.000 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+07:00:09.441 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+07:00:09.451 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+07:00:45.644 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/2bxtjkk5wpfl3mjld8y5ggxhaskrrr8reeshf0w4 to view build report, insights, and many more debugging information all at one place!
+
+07:00:45.781 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+07:00:45.782 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+07:06:18.387 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+07:06:18.397 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+07:06:35.432 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ooy3zz4hn5bmxz22kd0z5d38a0jquwq4wh0jlfr0 to view build report, insights, and many more debugging information all at one place!
+
+07:06:35.574 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+07:06:35.575 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+07:07:50.484 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+07:07:50.493 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+07:08:09.393 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/pwubsprn2zqlkehtmpxofdfops0s048stdciejol to view build report, insights, and many more debugging information all at one place!
+
+07:08:09.573 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+07:08:09.574 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+07:10:14.726 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+07:10:14.736 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+07:10:34.109 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fqqalsrflu91bqezbpvauioachsyeq3xlmfrvxzq to view build report, insights, and many more debugging information all at one place!
+
+07:10:34.287 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+07:10:34.288 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+07:14:49.967 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+07:14:49.976 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+07:15:08.545 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/7dznymdsvatc6zkkkgjpbwxbwx3lerwsrgmm7vr6 to view build report, insights, and many more debugging information all at one place!
+
+07:15:08.704 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+07:15:08.704 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+07:25:17.194 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+07:25:17.203 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+07:27:14.694 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xnlya2bfdm8qruwhu0b6hkj8axbz9ziy2cvjob1o to view build report, insights, and many more debugging information all at one place!
+
+07:27:14.919 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+07:27:14.920 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+07:27:43.965 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+07:27:43.974 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+07:31:35.148 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/zfg3ojmwys3ykvbt09qthr8qeld0kdaqrngijj5i to view build report, insights, and many more debugging information all at one place!
+
+07:31:35.346 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+07:31:35.347 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
